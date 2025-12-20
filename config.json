@@ -1,0 +1,12 @@
+{
+  "wsPort": 3210,
+  "lang": "ja-JP",
+  "cooldownMs": 2500,
+  "mappings": [
+    {
+      "keywords": ["なにこれ", "何これ"],
+      "file": "nanikore.mp3",
+      "volume": 1
+    }
+  ]
+}
